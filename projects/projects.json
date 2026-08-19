@@ -2,7 +2,7 @@
   {
     "name": "Rakasir",
     "desc": "A web-based cashier management system designed to simplify transaction management, product tracking, and daily sales operations.",
-    "image": "Cashier",
+    "image": "cashier",
     "category": "basicweb",
     "links": {
       "view": "https://rakasir.great-site.net/login.php",
