@@ -1,0 +1,11 @@
+@import url('../assets/css/style.css');
+
+.work{ padding-top:9rem; }
+.work .box-container{ min-height:200px; }
+.grid-item{ display:block; }
+.grid-item.hide{ display:none; }
+
+.empty-state{
+  grid-column:1/-1; text-align:center; color:var(--text-dim);
+  font-family:var(--f-mono); padding:3rem 1rem;
+}

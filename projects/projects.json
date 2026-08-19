@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Rakasir",
+    "desc": "A web-based cashier management system designed to simplify transaction management, product tracking, and daily sales operations.",
+    "image": "Cashier",
+    "category": "basicweb",
+    "links": {
+      "view": "https://rakasir.great-site.net/login.php",
+      "code": "https://github.com/RakaWiryaKusuma/Parallax-Website.git"
+    }
+  },
+  {
+    "name": "Seija's Magazine",
+    "desc": "A digital magazine platform showcasing creative works and projects created by SIJA students, featuring articles, designs, and other student creations.",
+    "image": "magazine",
+    "category": "basicweb",
+    "links": {
+      "view": "https://www.seijamagazine.site/",
+      "code": "https://github.com/sinsrakzz/Nextjs1"
+    }
+  },
+  {
+    "name": "Eshizen Market",
+    "desc": "A personal marketplace platform created to provide quick access to my digital products, social media, and other online resources.",
+    "image": "market",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sinsrakzz.github.io/eshizenmarket/",
+      "code": "https://github.com/sinsrakzz/eshizenmarket"
+    }
+  },
+  {
+    "name": "Parallax Website",
+    "desc": "A modern web project that uses parallax scrolling effects to create a dynamic and engaging visual experience.",
+    "image": "parallax",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sinsrakzz.github.io/Parallax-Website/",
+      "code": "https://github.com/sinsrakzz/Parallax-Website"
+    }
+  },
+  {
+    "name": "Simple calculator",
+    "desc": "A simple web-based calculator designed to perform basic arithmetic operations with a clean and easy-to-use interface.",
+    "image": "kalkulator",
+    "category": "basicweb",
+    "links": {
+      "view": "https://sinsrakzz.github.io/simplekalkulator/",
+      "code": "https://github.com/sinsrakzz/simplekalkulator"
+    }
+  }
+]

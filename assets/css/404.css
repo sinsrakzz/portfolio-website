@@ -1,0 +1,29 @@
+.page_404{
+  min-height:100vh; display:flex; flex-direction:column; align-items:center; justify-content:center;
+  text-align:center; padding-top:6rem;
+}
+.glitch-wrap h1{
+  font-family:var(--f-display); font-weight:800; font-size:clamp(6rem, 22vw, 11rem);
+  line-height:1; letter-spacing:-.03em; position:relative;
+  color:var(--accent);
+}
+.glitch-wrap h1::before, .glitch-wrap h1::after{
+  content:attr(data-text); position:absolute; inset:0; -webkit-background-clip:text; background-clip:text; color:transparent;
+}
+.glitch-wrap h1::before{ background:var(--accent); opacity:.4; transform:translate(3px,0); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; animation:glitch-1 3.5s infinite; }
+.glitch-wrap h1::after{ background:var(--text); opacity:.3; transform:translate(-3px,0); -webkit-background-clip:text; background-clip:text; -webkit-text-fill-color:transparent; animation:glitch-2 3.5s infinite; }
+@keyframes glitch-1{ 0%,92%,100%{ transform:translate(3px,0) } 94%{ transform:translate(-4px,1px) } 96%{ transform:translate(2px,-1px) } }
+@keyframes glitch-2{ 0%,92%,100%{ transform:translate(-3px,0) } 94%{ transform:translate(4px,-1px) } 96%{ transform:translate(-2px,1px) } }
+
+.page_404 .status-line{
+  font-family:var(--f-mono); font-size:.85rem; color:var(--text-dim);
+  display:flex; align-items:center; gap:.5rem; margin:1.5rem 0 1.2rem;
+}
+.page_404 .status-line .ping{ width:8px; height:8px; border-radius:50%; background:var(--accent); animation:ping 1.8s infinite; }
+
+.page_404 h3{ font-family:var(--f-display); font-weight:700; font-size:1.5rem; margin-bottom:.6rem; }
+.page_404 .lede{ color:var(--text-dim); max-width:420px; margin-bottom:2.2rem; }
+
+@media (prefers-reduced-motion: reduce){
+  .glitch-wrap h1::before, .glitch-wrap h1::after{ animation:none; }
+}

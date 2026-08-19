@@ -1,0 +1,32 @@
+[
+  {
+    "id": "cbd-cyber-breaker-development",
+    "title": "Break The Limit — Cyber Breaker Development Regional",
+    "issuer": "Cyber Breaker · Satria Siber Nusantara",
+    "date": "2–3 Mei 2026",
+    "category": "cybersecurity",
+    "cert_number": "460/EXT/CBD-REGIONAL/PRS/VIII/2026",
+    "known_as": "rakz.py",
+    "team": "Monster on the loose",
+    "signer": "Habib Bahrudin — VP of Cybersecurity",
+    "image": "cbd-cyber-breaker-development-thumb.jpg",
+    "image_full": "cbd-cyber-breaker-development.jpg",
+    "verify_url": null,
+    "desc": "Sertifikat partisipasi pada Cyber Breaker Development Regional, sebuah program pelatihan cyber security yang diselenggarakan oleh Cyber Breaker bersama Satria Siber Nusantara. Diikuti sebagai bagian dari tim \"Monster on the loose\" dengan alias rakz.py."
+  },
+  {
+    "id": "dicoding-certificate",
+    "title": "Dicoding Certificate",
+    "issuer": "Dicoding Indonesia",
+    "date": "",
+    "category": "web",
+    "cert_number": "N9ZO221NRPG5",
+    "known_as": "",
+    "team": "",
+    "signer": "",
+    "image": "dicodingaws.png",
+    "image_full": null,
+    "verify_url": "https://www.dicoding.com/certificates/N9ZO221NRPG5",
+    "desc": "Sertifikat kelulusan dari Dicoding Indonesia. Sertifikat ini dapat diverifikasi keasliannya langsung di situs resmi Dicoding menggunakan kode sertifikat di bawah."
+  }
+]
