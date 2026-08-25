@@ -1,7 +1,7 @@
 # Raka Wirya Kusuma — Portfolio
 
 Personal portfolio website for Raka Wirya Kusuma — Full-Stack Web Developer,
-Android App Developer, and aspiring Game Developer based in Jakarta, Indonesia.
+Android App Developer, and Cyber Security based in Jakarta, Indonesia.
 
 ## Theme
 "Player Card" — an arcade HUD / developer-console aesthetic (graphite black
